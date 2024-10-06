@@ -1,17 +1,25 @@
 ![header](https://capsule-render.vercel.app/api?section=header&type=waving&color=gradient&customColorList=0,1,2,3,4,6,7,8,10,12,14,19,20,24,26,27,28,30&height=250&text=devyumi&fontSize=40&fontAlign=85&animation=twinkling)
 
-<div align="center">
+<div align="center"><br>
 
 ⭐ **Tech Stack** ⭐ <br><br>
-<img src="https://img.shields.io/badge/Java-007396?style=circle&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=circle&logo=Spring Boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=circle&logo=Spring Security&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=circle&logo=MySQL&logoColor=white"/><br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devyumi&layout=compact&title_color=1270B2&border_radius=15) <br>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/BootStrap-7952B3?&logo=BootStrap&logoColor=white"/> <br><br>
+<img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?logo=Spring Security&logoColor=white"/>
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?&logo=Thymeleaf&logoColor=white"/> <br><br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/MyBatis3-F36633?logo=MyBatis3&logoColor=white"/> <br><br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devyumi&layout=compact&title_color=1270B2&border_radius=15) <br><br>
 
 #
 
-<br>
+<br><br>
 
 ⭐ **About Me** ⭐ <br><br>
 <a href="https://velog.io/@devyumi/posts">

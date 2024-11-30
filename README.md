@@ -13,7 +13,10 @@
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?logo=Spring Security&logoColor=white"/>
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?&logo=Thymeleaf&logoColor=white"/> <br><br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/MyBatis3-F36633?logo=MyBatis3&logoColor=white"/> <br><br>
+<img src="https://img.shields.io/badge/MyBatis3-F36633?logo=MyBatis3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-6DB33F?logo=JPA&logoColor=white"/>
+<img src="https://img.shields.io/badge/Querydsl-4479A1?logo=Querydsl&logoColor=white"/> <br><br>
+<img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?logo=naver&logoColor=white"/> <br><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devyumi&layout=compact&title_color=1270B2&border_radius=15) <br><br>
 

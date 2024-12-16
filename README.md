@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?section=header&type=waving&color=gradient&customColorList=0,1,2,3,4,6,7,8,10,12,14,19,20,24,26,27,28,30&height=250&text=devyumi&fontSize=40&fontAlign=85&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?section=header&type=waving&color=gradient&customColorList=0,1,2,3,4,6,7,8,10,12,14,19,20,24,26,27,28,30&height=180&text=devyumi&fontSize=35&fontAlign=85&animation=twinkling)
 
 <div align="center"><br>
 
@@ -18,11 +18,9 @@
 <img src="https://img.shields.io/badge/Querydsl-4479A1?logo=Querydsl&logoColor=white"/> <br><br>
 <img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?logo=naver&logoColor=white"/> <br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devyumi&layout=compact&title_color=1270B2&border_radius=15) <br><br>
-
 #
 
-<br><br>
+<br>
 
 ⭐ **About Me** ⭐ <br><br>
 <a href="https://velog.io/@devyumi/posts">
@@ -34,5 +32,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devyumi&show=reviews,prs_merged,prs_merged_percentage&hide=prs,issues,contribs&show_icons=true&rank_icon=github&icon_color=1270B2&title_color=1270B2&text_color=000000&custom_title=devyumi's%20GitHub%20Stats&border_radius=15&ring_color=1270B2)
 
 </div>
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=0,1,2,3,4,6,7,8,10,12,14,19,20,24,26,27,28,30&height=200&fontSize=40)
